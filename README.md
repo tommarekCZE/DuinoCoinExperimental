@@ -10,7 +10,7 @@ Warning: Running this programms may ban/lock your account
 #### 1. [ESP32 Select Wifi](https://github.com/tommarekCZE/DuinoCoinExperimental/tree/main/WifiSelectMiner-ESP32)
 → This miner let you connect to another wifi without reuploading code
 
-**************** SETUP *********+********
+**************** SETUP *****************
 
 → To order setup ESP32 Select Wifi miner you need upload the code open Serial Monitor and wait till connection failed
 → After this you will need type your SSID and PASSWORD
